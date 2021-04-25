@@ -55,6 +55,19 @@ This research has been accepted and presented at **36th ACM/SIGAPP Symposium on 
 
 
 
+## Case Study: Customer Churn Rate Analysis with Artificial Neural Networks
+
+**Why:** <br>
+**How:** <br>
+
+
+- <a href="https://github.com/TatevKaren/artificial-neural-network-business_case_study/blob/main/Artificial_Neural_Networks_Case_Study-2.pdf"> Case Study Paper</a>
+- <a href="https://github.com/TatevKaren/artificial-neural-network-business_case_study">Github Repo</a> 
+- <a href="https://github.com/TatevKaren/artificial-neural-network-business_case_study/blob/main/Artificial_Neural_Network_Case_Study.py"> Python Code</a>
+
+<br><br>
+
+
 ## Case Study: Top-N Movie Recommender 
 
 **Why:** <br>
