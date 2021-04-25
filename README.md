@@ -12,13 +12,6 @@ Statistics, Machine Learning, Big Data Analytics and Tools, Econometrics and mor
 <br><br><br><br>
 
 <h1 align="center" style="background-color:Tomato;"> Research Papers and Blog Posts</h1>
-<p align="center">
-<img src="https://cdn-images-1.medium.com/max/750/1*gBGnffHvHxI0SnVVu36bMw.gif?raw=true"
-  alt=""width="500" height="300">
-</p>
-- <a>Pyspark</a>
-<br><br>
-
 
 ## Research Project with Authored Paper: New Recommender Algorithm LDA-LFM
 **Why:** <br>
@@ -32,6 +25,11 @@ This research has been accepted and presented at **36th ACM/SIGAPP Symposium on 
 - <a href="https://github.com/TatevKaren/data-science-popular-algorithms/tree/main/LDA-LFM-Recommender-System/Pyton-Code"> Python Code</a>
 - <a href="https://medium.com/mlearning-ai/using-customer-and-product-features-in-recommender-systems-2734258873cf">Blog Post</a>
 <br><br>
+## Blog Posts 
+- Fundamentals of Statistics for Data Scientists and Data Analysts in <a href = "https://towardsdatascience.com/fundamentals-of-statistics-for-data-scientists-and-data-analysts-69d93a05aae7">Towards Data Science</a>
+- PySpark Cheat Sheet For Big Data Analytics in <a href = "https://medium.com/analytics-vidhya/pyspark-cheat-sheet-big-data-analytics-161a8e1f6185">Analytics Vidhya</a>
+- Predicting Bitcoin’s Price With Recurrent Neural Networks in <a href = "https://levelup.gitconnected.com/predicting-bitcoins-price-with-recurrent-neural-networks-a27b4d2d839"> in Gitconnected</a>
+- Using Customer and Product features in Recommender Systems in <a href = "https://medium.com/mlearning-ai/using-customer-and-product-features-in-recommender-systems-2734258873cf"> in MachineLearning</a>
 <br><br>
 
 
