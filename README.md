@@ -73,6 +73,8 @@ This research has been accepted and presented at **36th ACM/SIGAPP Symposium on 
 
 <br><br>
 
+<h1 align="center" style="background-color:Tomato;"> Case Studies in Data Science</h1>
+<br><br>
 
 ## Case Study: Top-N Movie Recommender 
 
@@ -88,6 +90,8 @@ Item-Item Collaborative Filtering
 
 
 
+<h1 align="center" style="background-color:Tomato;"> Case Studies in Statistics</h1>
+<br><br>
 
 ## Case Study in Multivariate Statistics
 
@@ -99,8 +103,6 @@ Item-Item Collaborative Filtering
 - <a href="https://github.com/TatevKaren/mathematics-statistics-for-data-science/blob/main/MultivariateStat_PCA_FA_CCA_code.R">R Code</a> 
 
 <br><br>
-
-
 
 
 
