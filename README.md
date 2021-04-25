@@ -12,6 +12,11 @@ Statistics, Machine Learning, Big Data Analytics and Tools, Econometrics and mor
 <br><br><br><br>
 
 <h1 align="center" style="background-color:Tomato;"> Research Papers and Blog Posts</h1>
+<p align="center">
+<img src="https://i.pinimg.com/originals/24/3b/24/243b24ce3b4d9bc259810eeecd67dc20.gif?raw=true"
+  alt=""width="400" height="300">
+</p>
+
 
 ## Research Project/Authored Paper: New Recommender Algorithm LDA-LFM
 **Why:** <br>
