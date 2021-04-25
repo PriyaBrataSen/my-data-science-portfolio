@@ -33,7 +33,7 @@ This research has been accepted and presented at **36th ACM/SIGAPP Symposium on 
 
 
 
-## Case Study: Movie Recommender 
+## Case Study: Top-N Movie Recommender 
 
 **Why:** <br>
 **How:** <br>
@@ -44,6 +44,38 @@ Item-Item Collaborative Filtering
 - <a href="https://github.com/TatevKaren/DataScience/blob/main/TopN_MovieRecommender.py">Python Code</a> 
 
 <br><br>
+
+
+
+
+## Case Study: Top-N Movie Recommender 
+
+**Why:** <br>
+**How:** <br>
+
+Item-Item Collaborative Filtering
+
+- <a href="https://github.com/TatevKaren/data-science-popular-algorithms/blob/main/TopN_MovieRecommender.pdf"> Case Study Paper</a>
+- <a href="https://github.com/TatevKaren/DataScience/blob/main/TopN_MovieRecommender.py">Python Code</a> 
+
+<br><br>
+
+
+
+
+
+
+## Case Study: Advanced Marketing Models (FastMCD)
+
+**Why:** <br>
+**How:** <br>
+
+
+- <a href="https://github.com/TatevKaren/mathematics-statistics-for-data-science/blob/main/AdvancedStatistics_FastMCD_CaseStudy.pdf"> Case Study Paper</a>
+- <a href="https://github.com/TatevKaren/mathematics-statistics-for-data-science/blob/main/FastMCD.R">R Code</a> 
+
+<br><br>
+
 
 
 
