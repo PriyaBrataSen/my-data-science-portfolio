@@ -33,10 +33,17 @@ This research has been accepted and presented at **36th ACM/SIGAPP Symposium on 
 
 
 
-## Case Study: 
+## Case Study: Movie Recommender 
+
 **Why:** <br>
 **How:** <br>
 
+Item-Item Collaborative Filtering
+
+- <a href="https://github.com/TatevKaren/data-science-popular-algorithms/blob/main/TopN_MovieRecommender.pdf"> Case Study Paper</a>
+- <a href="https://github.com/TatevKaren/DataScience/blob/main/TopN_MovieRecommender.py">Python Code</a> 
+
+<br><br>
 
 
 
