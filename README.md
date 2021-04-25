@@ -32,6 +32,7 @@ This research has been accepted and presented at **36th ACM/SIGAPP Symposium on 
 - Using Customer and Product features in Recommender Systems in <a href = "https://medium.com/mlearning-ai/using-customer-and-product-features-in-recommender-systems-2734258873cf"> MachineLearning</a>
 <br><br>
 <br><br>
+<br><br>
 
 
 <h1 align="center" style="background-color:Tomato;"> Case Studies in Deep Learning </h1>
