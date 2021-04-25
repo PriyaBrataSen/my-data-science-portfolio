@@ -11,6 +11,9 @@ Statistics, Machine Learning, Big Data Analytics and Tools, Econometrics and mor
 - Combination of above
 <br><br>
 
+<h1 align="center" style="background-color:Tomato;"> Research and Case Studies in Recommender Systems</h1>
+<br><br>
+
 
 ## Research Project with Authored Paper: New Recommender Algorithm LDA-LFM
 **Why:** <br>
@@ -24,7 +27,17 @@ This research has been accepted and presented at **36th ACM/SIGAPP Symposium on 
 - <a href="https://github.com/TatevKaren/data-science-popular-algorithms/tree/main/LDA-LFM-Recommender-System/Pyton-Code"> Python Code</a>
 - <a href="https://medium.com/mlearning-ai/using-customer-and-product-features-in-recommender-systems-2734258873cf">Blog Post</a>
 
+## Case Study: Top-N Movie Recommender 
 
+**Why:** <br>
+**How:** <br>
+
+Item-Item Collaborative Filtering
+
+- <a href="https://github.com/TatevKaren/data-science-popular-algorithms/blob/main/TopN_MovieRecommender.pdf"> Case Study Paper</a>
+- <a href="https://github.com/TatevKaren/DataScience/blob/main/TopN_MovieRecommender.py">Python Code</a> 
+
+<br><br>
 
 <br><br>
 
@@ -73,23 +86,6 @@ This research has been accepted and presented at **36th ACM/SIGAPP Symposium on 
 - <a href="https://github.com/TatevKaren/artificial-neural-network-business_case_study/blob/main/Artificial_Neural_Network_Case_Study.py"> Python Code</a>
 
 <br><br>
-
-<h1 align="center" style="background-color:Tomato;"> Case Studies in Data Science</h1>
-<br><br>
-
-## Case Study: Top-N Movie Recommender 
-
-**Why:** <br>
-**How:** <br>
-
-Item-Item Collaborative Filtering
-
-- <a href="https://github.com/TatevKaren/data-science-popular-algorithms/blob/main/TopN_MovieRecommender.pdf"> Case Study Paper</a>
-- <a href="https://github.com/TatevKaren/DataScience/blob/main/TopN_MovieRecommender.py">Python Code</a> 
-
-<br><br>
-
-
 
 <h1 align="center" style="background-color:Tomato;"> Case Studies in Statistics</h1>
 <p align="center">
