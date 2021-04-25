@@ -10,7 +10,7 @@ Statistics, Machine Learning, Big Data Analytics and Tools, Econometrics and mor
 - Data Analytics
 - Combination of above
 
-<h1>Machine Learning | Computer Science | Data Science </h1>
+<h1 align="center">Machine Learning | Computer Science | Data Science </h1>
 
 <br><br>
 ## Research Project: New Recommender Algorithm (Authored Paper)
