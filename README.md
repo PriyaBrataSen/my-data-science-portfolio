@@ -11,7 +11,7 @@ Statistics, Machine Learning, Big Data Analytics and Tools, Econometrics and mor
 - Combination of above
 <br><br>
 
-<span align="center" style="background-color:Tomato;"> Computer Science | Data Science | Machine Learning </span>
+<h1 align="center" style="background-color:Tomato;"> Computer Science | Data Science | Machine Learning </h1>
 
 <br><br>
 ## Research Project: New Recommender Algorithm (Authored Paper)
