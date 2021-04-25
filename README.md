@@ -28,6 +28,19 @@ This research has been accepted and presented at **36th ACM/SIGAPP Symposium on 
 <br><br>
 
 
+## Case Study: Price Prediction with Recurrent Neural Networks
+
+**Why:** <br>
+**How:** <br>
+
+
+- <a href="https://github.com/TatevKaren/recurrent-neural-network-pricing-model/blob/main/Recurrent_Neural_Networks_Case_Study.pdf"> Case Study Paper</a>
+- <a href="https://github.com/TatevKaren/recurrent-neural-network-pricing-model">Github Repo</a> 
+- <a href="https://github.com/TatevKaren/recurrent-neural-network-pricing-model/blob/main/Recurrent_Neural_Network_Case_Study.py"> Python Code</a>
+
+<br><br>
+
+
 ## Case Study: Image Recognition with Convolutional Neural Networks
 
 **Why:** <br>
