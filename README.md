@@ -12,10 +12,9 @@ Statistics, Machine Learning, Big Data Analytics and Tools, Econometrics and mor
 
 <br><br>
 # Research Project: New Recommender Algorithm (Authored Paper)
-**Why:**
-**How:**
+**Why:** <br>
+**How:** <br>
 
-<a href="https://github.com/TatevKaren/data-science-popular-algorithms/tree/main/LDA-LFM-Recommender-System"> LDA-LFM Recommender Algorithm</a>
 This research has been accepted and presented at **36th ACM/SIGAPP Symposium on Applied Computing (SAC 2021)**. The paper based on this work has been published at **Association for Computing Machinery (ACM)** journal and in ACM digital library. This paper has also been selected by the ACM SIGAPP Conference penalists to be extened and this extended version will be published in **Applied Computing Review (ACR)**, distributed to all ACM/SIGAPP members by paid subscription. 
 
 - <a href="https://www.youtube.com/watch?v=i_j59gQTU6w&t=42s&ab_channel=TatevKaren">Conference Presentation Video</a>
