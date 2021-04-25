@@ -53,10 +53,9 @@ Item-Item Collaborative Filtering
 **Why:** <br>
 **How:** <br>
 
-Item-Item Collaborative Filtering
 
 - <a href="https://github.com/TatevKaren/mathematics-statistics-for-data-science/blob/main/MultivariateStatistics_CaseStudy_PCA_FA_CCA.pdf"> Case Study Paper</a>
-- <a href="https://github.com/TatevKaren/DataScience/blob/main/TopN_MovieRecommender.py">R Code</a> 
+- <a href="https://github.com/TatevKaren/mathematics-statistics-for-data-science/blob/main/MultivariateStat_PCA_FA_CCA_code.R">R Code</a> 
 
 <br><br>
 
