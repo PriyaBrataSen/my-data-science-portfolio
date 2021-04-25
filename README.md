@@ -11,9 +11,7 @@ Statistics, Machine Learning, Big Data Analytics and Tools, Econometrics and mor
 - Combination of above
 <br><br>
 
-<h1 align="center" style="background-color:Tomato;"> Research in Data Science/Computer Science  </h1>
 
-<br><br>
 ## Research Project with Authored Paper: New Recommender Algorithm LDA-LFM
 **Why:** <br>
 **How:** <br>
