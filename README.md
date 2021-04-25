@@ -8,7 +8,9 @@ Statistics, Machine Learning, Big Data Analytics and Tools, Econometrics and mor
 - Deep Learning
 - Computer Science
 - Data Analytics
-- or combination of above
+- Combination of above
 
-<br> <br>
-## Case Study: 
+<br><br>
+## Research Project: New Recommender Algorithm 
+
+<a href="https://github.com/TatevKaren/data-science-popular-algorithms/tree/main/LDA-LFM-Recommender-System"> LDA-LFM Recommender Algorithm</a>
