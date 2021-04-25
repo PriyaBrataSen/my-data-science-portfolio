@@ -11,7 +11,7 @@ Statistics, Machine Learning, Big Data Analytics and Tools, Econometrics and mor
 - Combination of above
 <br><br>
 
-<h1 align="center" style="background-color:Tomato;"> Computer Science | Data Science | Machine Learning </h1>
+<h1 align="center" style="background-color:Tomato;"> Research in Data Science/Computer Science  </h1>
 
 <br><br>
 ## Research Project: New Recommender Algorithm (Authored Paper)
@@ -28,6 +28,9 @@ This research has been accepted and presented at **36th ACM/SIGAPP Symposium on 
 
 
 
+<br><br>
+
+<h1 align="center" style="background-color:Tomato;"> Case Studies in Deep Learning </h1>
 <br><br>
 
 
