@@ -11,11 +11,12 @@ Statistics, Machine Learning, Big Data Analytics and Tools, Econometrics and mor
 - Combination of above
 <br><br><br><br>
 
-<h1 align="center" style="background-color:Tomato;"> Research and Case Studies in Recommender Systems</h1>
+<h1 align="center" style="background-color:Tomato;"> Research Papers and Blog Posts</h1>
 <p align="center">
 <img src="https://cdn-images-1.medium.com/max/750/1*gBGnffHvHxI0SnVVu36bMw.gif?raw=true"
   alt=""width="500" height="300">
 </p>
+- <a>Pyspark</a>
 <br><br>
 
 
@@ -31,19 +32,8 @@ This research has been accepted and presented at **36th ACM/SIGAPP Symposium on 
 - <a href="https://github.com/TatevKaren/data-science-popular-algorithms/tree/main/LDA-LFM-Recommender-System/Pyton-Code"> Python Code</a>
 - <a href="https://medium.com/mlearning-ai/using-customer-and-product-features-in-recommender-systems-2734258873cf">Blog Post</a>
 <br><br>
-## Case Study: Top-N Movie Recommender 
-
-**Why:** <br>
-**How:** <br>
-
-Item-Item Collaborative Filtering
-
-- <a href="https://github.com/TatevKaren/data-science-popular-algorithms/blob/main/TopN_MovieRecommender.pdf"> Case Study Paper</a>
-- <a href="https://github.com/TatevKaren/DataScience/blob/main/TopN_MovieRecommender.py">Python Code</a> 
-
 <br><br>
 
-<br><br>
 
 <h1 align="center" style="background-color:Tomato;"> Case Studies in Deep Learning </h1>
 <p align="center">
@@ -91,6 +81,21 @@ Item-Item Collaborative Filtering
 
 <br><br>
 
+
+
+## Case Study: Top-N Movie Recommender 
+
+**Why:** <br>
+**How:** <br>
+
+Item-Item Collaborative Filtering
+
+- <a href="https://github.com/TatevKaren/data-science-popular-algorithms/blob/main/TopN_MovieRecommender.pdf"> Case Study Paper</a>
+- <a href="https://github.com/TatevKaren/DataScience/blob/main/TopN_MovieRecommender.py">Python Code</a> 
+
+<br><br>
+
+
 <h1 align="center" style="background-color:Tomato;"> Case Studies in Statistics</h1>
 <p align="center">
 <img src="https://31.media.tumblr.com/6e30102110ed817963e3066d8e936dbb/tumblr_ne7culaYCR1qza6bio1_1280.gif?raw=true"
@@ -135,7 +140,6 @@ Item-Item Collaborative Filtering
 - <a href="https://github.com/TatevKaren/mathematics-statistics-for-data-science/blob/main/Single_vs_Multiple_Imputation.R">R Code</a> 
 
 <br><br>
-
 
 
 
