@@ -11,7 +11,7 @@ Statistics, Machine Learning, Big Data Analytics and Tools, Econometrics and mor
 - Combination of above
 
 <br><br>
-# Research Project: New Recommender Algorithm (Authored Paper)
+## Research Project: New Recommender Algorithm (Authored Paper)
 **Why:** <br>
 **How:** <br>
 
@@ -32,6 +32,6 @@ This research has been accepted and presented at **36th ACM/SIGAPP Symposium on 
 
 
 
-# Case Study: 
+## Case Study: 
 **Why:**
 **How:**
