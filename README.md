@@ -14,7 +14,7 @@ Statistics, Machine Learning, Big Data Analytics and Tools, Econometrics and mor
 <h1 align="center" style="background-color:Tomato;"> Research and Case Studies in Recommender Systems</h1>
 <p align="center">
 <img src="https://cdn-images-1.medium.com/max/750/1*gBGnffHvHxI0SnVVu36bMw.gif?raw=true"
-  alt=""width="400" height="300">
+  alt=""width="600" height="300">
 </p>
 <br><br>
 
