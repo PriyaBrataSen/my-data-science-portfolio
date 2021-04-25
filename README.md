@@ -77,6 +77,18 @@ Item-Item Collaborative Filtering
 
 
 
+## Case Study in Advanced Marketing Models (Missing Data Mechanisms)
+
+**Why:** <br>
+**How:** <br>
+
+
+- <a href="https://github.com/TatevKaren/mathematics-statistics-for-data-science/blob/main/AdvancedStatistics_OLS_MM_SIMI_CaseStudy.pdf"> Case Study Paper</a>
+- <a href="https://github.com/TatevKaren/mathematics-statistics-for-data-science/blob/main/Single_vs_Multiple_Imputation.R">R Code</a> 
+
+<br><br>
+
+
 
 
 
