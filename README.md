@@ -29,14 +29,14 @@ This research has been accepted and presented at **36th ACM/SIGAPP Symposium on 
 <br><br>
 
 <h1 align="center" style="background-color:Tomato;"> Case Studies in Deep Learning </h1>
+<p align="center">
+<img src="https://analyticsinsight.b-cdn.net/wp-content/uploads/2020/03/AI_Animated.gif?raw=true"
+  alt=""width="400" height="300">
+</p>
 <br><br>
 
 
 ## Case Study: Price Prediction with Recurrent Neural Networks
-<p align="center">
-<img src="https://analyticsinsight.b-cdn.net/wp-content/uploads/2020/03/AI_Animated.gif?raw=true"
-  alt=""width="500" height="200">
-</p>
 **Why:** <br>
 **How:** <br>
 
