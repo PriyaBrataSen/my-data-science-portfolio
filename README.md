@@ -48,15 +48,15 @@ Item-Item Collaborative Filtering
 
 
 
-## Case Study: Top-N Movie Recommender 
+## Case Study in Multivariate Statistics
 
 **Why:** <br>
 **How:** <br>
 
 Item-Item Collaborative Filtering
 
-- <a href="https://github.com/TatevKaren/data-science-popular-algorithms/blob/main/TopN_MovieRecommender.pdf"> Case Study Paper</a>
-- <a href="https://github.com/TatevKaren/DataScience/blob/main/TopN_MovieRecommender.py">Python Code</a> 
+- <a href="https://github.com/TatevKaren/mathematics-statistics-for-data-science/blob/main/MultivariateStatistics_CaseStudy_PCA_FA_CCA.pdf"> Case Study Paper</a>
+- <a href="https://github.com/TatevKaren/DataScience/blob/main/TopN_MovieRecommender.py">R Code</a> 
 
 <br><br>
 
@@ -65,7 +65,7 @@ Item-Item Collaborative Filtering
 
 
 
-## Case Study: Advanced Marketing Models (FastMCD)
+## Case Study in Advanced Marketing Models (FastMCD)
 
 **Why:** <br>
 **How:** <br>
