@@ -33,7 +33,10 @@ This research has been accepted and presented at **36th ACM/SIGAPP Symposium on 
 
 
 ## Case Study: Price Prediction with Recurrent Neural Networks
-
+<p align="center">
+<img src="https://analyticsinsight.b-cdn.net/wp-content/uploads/2020/03/AI_Animated.gif?raw=true"
+  alt=""width="500" height="200">
+</p>
 **Why:** <br>
 **How:** <br>
 
